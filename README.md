@@ -13,3 +13,21 @@ This project performs sentiment analysis on customer reviews using Natural Langu
 
 *MENTOR*: NEELA SANTHOSH
 
+#
+This project performs sentiment analysis on customer reviews using Natural Language Processing (NLP). It includes text preprocessing, TF-IDF vectorization, and sentiment classification using Logistic Regression. It includes preprocessing, model training, and evaluation.
+
+# TOOLS USED
+Python
+Jupyter Notebook
+Scikit-learn – TF-IDF Vectorizer, Logistic Regression, Evaluation
+Pandas & NumPy – Data handling
+Regex – Text cleaning and normalization
+
+
+
+# AAPLICATIONS
+Analyzing customer sentiment in product or service reviews
+Monitoring social media opinion trends
+Enhancing customer experience through automated feedback analysis
+Prioritizing customer support based on sentiment severity
+
