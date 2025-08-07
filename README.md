@@ -32,4 +32,5 @@ Enhancing customer experience through automated feedback analysis
 Prioritizing customer support based on sentiment severity
 
 # OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ee3c7743-2a95-47f2-8475-b704dfe69674" />
 
