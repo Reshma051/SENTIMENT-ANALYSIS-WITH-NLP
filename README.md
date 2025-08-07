@@ -18,22 +18,18 @@ This project performs sentiment analysis on customer reviews using Natural Langu
 
 
 # TOOLS USED
-Python
-
-Jupyter Notebook
-
-Scikit-learn – TF-IDF Vectorizer, Logistic Regression, Evaluation
-
-Pandas & NumPy – Data handling
-
-Regex – Text cleaning and normalization
+-Python
+-Jupyter Notebook
+-Scikit-learn – TF-IDF Vectorizer, Logistic Regression, Evaluation
+-Pandas & NumPy – Data handling
+-Regex – Text cleaning and normalization
 
 
 # AAPLICATIONS
-Analyzing customer sentiment in product or service reviews.
-Monitoring social media opinion trends.
-Enhancing customer experience through automated feedback analysis.
-Prioritizing customer support based on sentiment severity.
+-Analyzing customer sentiment in product or service reviews.
+-Monitoring social media opinion trends.
+-Enhancing customer experience through automated feedback analysis.
+-Prioritizing customer support based on sentiment severity.
 
 # OUTPUT
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ee3c7743-2a95-47f2-8475-b704dfe69674" />
